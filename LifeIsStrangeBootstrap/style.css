@@ -1,0 +1,35 @@
+﻿#logo{
+    background-color:pink;
+    padding:0px;
+}
+#main {
+    background-image: url('image/junkyard.jpg');
+    height:1000px;
+    justify-content:center;
+    align-items:flex-end;
+    display:flex;
+    flex-direction:column;
+
+}
+img{
+    height:65%;
+    padding-left:15px;
+    padding-top:15px;
+    
+}
+#navbar{
+    padding-left:0px;
+    padding-right:0px;
+    
+}
+
+#navBar{
+    background-color:red!important;
+
+}
+
+a.nav-link{
+    color: white!important;
+    font-size:30px;
+    margin-right:25px;
+}
